@@ -1,0 +1,11 @@
+{
+  "client_id": "",
+  "client_secret": "",
+  "auth_uri": "",
+  "token_uri": "",
+  "userinfo_uri": "",
+  "logout_uri": "",
+  "auth_provider_keys_uri": "",
+  "redirect_uris": [],
+  "javascript_origins": []
+}
