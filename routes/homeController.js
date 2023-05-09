@@ -3,7 +3,7 @@
  */
 
 const config = require('./../config/config.json');
-const idgobpe = require('idgobpe_sdk');
+const idgobpe = require('idgobpe_sdk2');
 
 let controller = {
     getIndex: (req, res, next) => {

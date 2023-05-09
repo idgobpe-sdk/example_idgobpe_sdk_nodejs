@@ -5,7 +5,7 @@
 const configAuth = require('./../config/idgobpe_config.json');
 const config = require('./../config/config.json');
 const randomstring = require('randomstring');
-const idgobpe = require('idgobpe_sdk');
+const idgobpe = require('idgobpe_sdk2');
 
 let controller = {
     getIndex: (req, res, next) => {
